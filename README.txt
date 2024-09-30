@@ -4,7 +4,7 @@
 gitが入ったら。任意のフォルダを作り、右クリック、git bashを開く。
 git init コマンドでgitのローカルリポジトリを作る。
 git remote add origin　<URLプラストークン>　→例 https://<トークン>@github.com/CGengineer/NovelGame.git
-git pull origin master
+git pull origin HEAD
 git config --local core.autocrlf false
 git config --global core.autocrlf false
 git config --global core.safecrlf false
