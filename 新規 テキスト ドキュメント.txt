@@ -4,21 +4,26 @@
 gitが入ったら。任意のフォルダを作り、右クリック、git bashを開く。
 git init コマンドでgitのローカルリポジトリを作る。
 git remote add origin　<URLプラストークン>　→例 https://<トークン>@github.com/CGengineer/NovelGame.git
-git pull origin master
+git pull origin HEAD   tabでできる
 git config --local core.autocrlf false
 git config --global core.autocrlf false
 git config --global core.safecrlf false
 
+gitattributesない場合は作る
 初めて環境構築する場合
 .gitattributesを作成
 
 変更する場合
 git pull origin master ←確認
-git chedckout -b <好きなブランチ名>
+git chedckout -b <好きなブランチ名>　＊unityとか
 git add .
 git commit -m "コメント"
 git push origin master （masterは右上のブランチ名）
 トークンで入場させられる場合もある。
+
+
+基本ここまで
+
 
 何をするか。対策方法
 githubのアカウントを作成
