@@ -1,0 +1,6 @@
+C:\Users\y-takano\Desktop\share\Practice\GroupJoin\bin\Debug\GroupJoin.exe.config
+C:\Users\y-takano\Desktop\share\Practice\GroupJoin\bin\Debug\GroupJoin.exe
+C:\Users\y-takano\Desktop\share\Practice\GroupJoin\bin\Debug\GroupJoin.pdb
+C:\Users\y-takano\Desktop\share\Practice\GroupJoin\obj\Debug\GroupJoin.csproj.CoreCompileInputs.cache
+C:\Users\y-takano\Desktop\share\Practice\GroupJoin\obj\Debug\GroupJoin.exe
+C:\Users\y-takano\Desktop\share\Practice\GroupJoin\obj\Debug\GroupJoin.pdb

@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "三項演算子", "三項�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Join", "Join\Join.csproj", "{7A634CEB-9F86-4FA9-A158-BD655EA41E75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupJoin", "GroupJoin\GroupJoin.csproj", "{FAE65D99-2F97-4C95-8809-FBE03BA144BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{7A634CEB-9F86-4FA9-A158-BD655EA41E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A634CEB-9F86-4FA9-A158-BD655EA41E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A634CEB-9F86-4FA9-A158-BD655EA41E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAE65D99-2F97-4C95-8809-FBE03BA144BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE65D99-2F97-4C95-8809-FBE03BA144BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE65D99-2F97-4C95-8809-FBE03BA144BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE65D99-2F97-4C95-8809-FBE03BA144BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
