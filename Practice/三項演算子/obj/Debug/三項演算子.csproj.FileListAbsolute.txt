@@ -1,0 +1,6 @@
+C:\Users\y-takano\Desktop\Practice\三項演算子\bin\Debug\三項演算子.exe.config
+C:\Users\y-takano\Desktop\Practice\三項演算子\bin\Debug\三項演算子.exe
+C:\Users\y-takano\Desktop\Practice\三項演算子\bin\Debug\三項演算子.pdb
+C:\Users\y-takano\Desktop\Practice\三項演算子\obj\Debug\三項演算子.csproj.CoreCompileInputs.cache
+C:\Users\y-takano\Desktop\Practice\三項演算子\obj\Debug\三項演算子.exe
+C:\Users\y-takano\Desktop\Practice\三項演算子\obj\Debug\三項演算子.pdb

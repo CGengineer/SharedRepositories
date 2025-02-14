@@ -1,0 +1,6 @@
+C:\Users\y-takano\Desktop\Practice\四則演算\bin\Debug\四則演算.exe.config
+C:\Users\y-takano\Desktop\Practice\四則演算\bin\Debug\四則演算.exe
+C:\Users\y-takano\Desktop\Practice\四則演算\bin\Debug\四則演算.pdb
+C:\Users\y-takano\Desktop\Practice\四則演算\obj\Debug\四則演算.csproj.CoreCompileInputs.cache
+C:\Users\y-takano\Desktop\Practice\四則演算\obj\Debug\四則演算.exe
+C:\Users\y-takano\Desktop\Practice\四則演算\obj\Debug\四則演算.pdb

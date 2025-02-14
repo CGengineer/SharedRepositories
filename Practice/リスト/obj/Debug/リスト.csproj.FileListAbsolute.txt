@@ -1,0 +1,6 @@
+C:\Users\y-takano\Desktop\Practice\リスト\bin\Debug\リスト.exe.config
+C:\Users\y-takano\Desktop\Practice\リスト\bin\Debug\リスト.exe
+C:\Users\y-takano\Desktop\Practice\リスト\bin\Debug\リスト.pdb
+C:\Users\y-takano\Desktop\Practice\リスト\obj\Debug\リスト.csproj.CoreCompileInputs.cache
+C:\Users\y-takano\Desktop\Practice\リスト\obj\Debug\リスト.exe
+C:\Users\y-takano\Desktop\Practice\リスト\obj\Debug\リスト.pdb

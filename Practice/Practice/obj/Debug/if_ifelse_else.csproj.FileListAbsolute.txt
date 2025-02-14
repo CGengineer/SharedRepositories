@@ -1,0 +1,6 @@
+C:\Users\y-takano\Desktop\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\y-takano\Desktop\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\y-takano\Desktop\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\y-takano\Desktop\Practice\Practice\obj\Debug\if_ifelse_else.csproj.CoreCompileInputs.cache
+C:\Users\y-takano\Desktop\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\y-takano\Desktop\Practice\Practice\obj\Debug\Practice.pdb

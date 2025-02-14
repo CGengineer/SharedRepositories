@@ -1,0 +1,6 @@
+C:\Users\y-takano\Desktop\Practice\関数(method)\bin\Debug\関数(method).exe.config
+C:\Users\y-takano\Desktop\Practice\関数(method)\bin\Debug\関数(method).exe
+C:\Users\y-takano\Desktop\Practice\関数(method)\bin\Debug\関数(method).pdb
+C:\Users\y-takano\Desktop\Practice\関数(method)\obj\Debug\関数(method).csproj.CoreCompileInputs.cache
+C:\Users\y-takano\Desktop\Practice\関数(method)\obj\Debug\関数(method).exe
+C:\Users\y-takano\Desktop\Practice\関数(method)\obj\Debug\関数(method).pdb

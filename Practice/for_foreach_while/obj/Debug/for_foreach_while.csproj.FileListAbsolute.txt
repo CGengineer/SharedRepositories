@@ -1,0 +1,6 @@
+C:\Users\y-takano\Desktop\Practice\for_foreach_while\bin\Debug\for_foreach_while.exe.config
+C:\Users\y-takano\Desktop\Practice\for_foreach_while\bin\Debug\for_foreach_while.exe
+C:\Users\y-takano\Desktop\Practice\for_foreach_while\bin\Debug\for_foreach_while.pdb
+C:\Users\y-takano\Desktop\Practice\for_foreach_while\obj\Debug\for_foreach_while.csproj.CoreCompileInputs.cache
+C:\Users\y-takano\Desktop\Practice\for_foreach_while\obj\Debug\for_foreach_while.exe
+C:\Users\y-takano\Desktop\Practice\for_foreach_while\obj\Debug\for_foreach_while.pdb

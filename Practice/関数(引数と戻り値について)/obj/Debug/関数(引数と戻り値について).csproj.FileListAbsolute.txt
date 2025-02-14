@@ -1,0 +1,6 @@
+C:\Users\y-takano\Desktop\Practice\関数(引数と戻り値について)\bin\Debug\関数(引数と戻り値について).exe.config
+C:\Users\y-takano\Desktop\Practice\関数(引数と戻り値について)\bin\Debug\関数(引数と戻り値について).exe
+C:\Users\y-takano\Desktop\Practice\関数(引数と戻り値について)\bin\Debug\関数(引数と戻り値について).pdb
+C:\Users\y-takano\Desktop\Practice\関数(引数と戻り値について)\obj\Debug\関数(引数と戻り値について).csproj.CoreCompileInputs.cache
+C:\Users\y-takano\Desktop\Practice\関数(引数と戻り値について)\obj\Debug\関数(引数と戻り値について).exe
+C:\Users\y-takano\Desktop\Practice\関数(引数と戻り値について)\obj\Debug\関数(引数と戻り値について).pdb

@@ -1,0 +1,7 @@
+C:\Users\y-takano\Desktop\Practice\配列\bin\Debug\配列.exe.config
+C:\Users\y-takano\Desktop\Practice\配列\bin\Debug\配列.exe
+C:\Users\y-takano\Desktop\Practice\配列\bin\Debug\配列.pdb
+C:\Users\y-takano\Desktop\Practice\配列\obj\Debug\配列.csproj.AssemblyReference.cache
+C:\Users\y-takano\Desktop\Practice\配列\obj\Debug\配列.csproj.CoreCompileInputs.cache
+C:\Users\y-takano\Desktop\Practice\配列\obj\Debug\配列.exe
+C:\Users\y-takano\Desktop\Practice\配列\obj\Debug\配列.pdb
