@@ -7,9 +7,7 @@
 *.asset filter=lfs diff=lfs merge=lfs -text
 *.so filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
-*.zip filter=lfs diff=lfs merge=lfs -text  # ZipファイルをLFSで管理
-
-# すべてのテキストファイルに対して改行コードをLFに統一
+*.zip filter=lfs diff=lfs merge=lfs -text
 *.txt text eol=lf
 *.md text eol=lf
 *.csv text eol=lf
